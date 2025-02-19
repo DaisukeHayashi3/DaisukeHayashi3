@@ -38,11 +38,6 @@ This dashboard is designed to document the code history of imaging system projec
 
 The dashboard allows students to track code history, view project details, and update records. Usage instructions are written in a Python file within the repository.
 
-### DNN for Finance
-
-I created this as an exercise for creating a deep learning framework when I was interested in the stock market.
-I obtained stock price data from a site called stooq and trained the model in a simple LSTM cell.
-
 ### Contribution
 
 If you are a student at **Shizuoka University**, please reach out to me in direct.
@@ -50,3 +45,10 @@ If you are a student at **Shizuoka University**, please reach out to me in direc
 ### License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+### (Extra.) DNN for Finance
+
+I created this as an exercise for creating a deep learning framework when I was interested in the stock market.
+I obtained stock price data from a site called stooq and trained the model in a simple LSTM cell.
+
+
